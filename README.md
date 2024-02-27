@@ -1,4 +1,14 @@
-# New Project
+# To-Do List
+
+This is a simple to-do list app created using TypeScript. The original code was based on a tutorial by [WebDevSimplified](link-to-the-original-tutorial), and additional features have been added, such as the ability to remove tasks.
+
+## Attribution
+
+The core of this project is based on the tutorial by [WebDevSimplified](link-to-the-original-tutorial), and it's important to give credit to the original author for their contributions. The project's code is licensed under the [MIT License](LICENSE).
+
+## Additional Features
+
+- **Remove Task Functionality:** Added the ability to remove specific tasks from the to-do list.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
